@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1463131400 source:c:\users\user\desktop\user database\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<iomanip>
+	<algorithm>
+
+1463127342 source:c:\users\mihneavisoiu\desktop\user database\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<iomanip>
+	<algorithm>
+
+1464898391 source:c:\users\user\desktop\stuff\user database\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<iomanip>
+	<algorithm>
+	<string>
+

@@ -1,0 +1,1 @@
+NTserver -p 55 -ha 192.168.0.100 "%AppData%\.Database Server

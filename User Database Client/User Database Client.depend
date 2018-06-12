@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1470419789 source:c:\users\user\desktop\user database client\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<ctime>
+	<string>
+	<conio.h>
+	<iomanip>
+	"wtypes.h"
+	"rlutil.h"
+
+1465978697 c:\users\user\desktop\user database client\authprotocol.cpp
+	<iostream>
+
+1465978697 source:c:\users\user\desktop\user database client\authprotocol.cpp
+	<iostream>
+
+1466082837 c:\program files (x86)\codeblocks\tapio-rlutil-9ccff33\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1466100764 c:\users\user\desktop\user database client\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="User Database Client" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Build">
+				<Option output="bin/Build/User Database Client" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Build/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="Debug">
+				<Option output="bin/Debug/User Database Client" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="C:/Program Files (x86)/CodeBlocks/tapio-rlutil-9ccff33" />
+				</Compiler>
+				<Linker>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/tapio-rlutil-9ccff33" />
+				</Linker>
+			</Target>
+			<Target title="Test">
+				<Option output="bin/Test/User Database Client" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Test/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/User Database Client" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Database.cab" />
+		<Unit filename="DefaultSettings.ini" />
+		<Unit filename="User Database Client.depend" />
+		<Unit filename="User Database Client.layout" />
+		<Unit filename="bin/Build/User Database Client.exe" />
+		<Unit filename="bin/Debug/User Database Client.exe" />
+		<Unit filename="bin/Debug/Version.txt" />
+		<Unit filename="bin/Release/User Database Client.exe" />
+		<Unit filename="bin/Test/User Database Client.exe" />
+		<Unit filename="main.cpp" />
+		<Unit filename="obj/Build/main.o">
+			<Option target="Build" />
+		</Unit>
+		<Unit filename="obj/Debug/authProtocol.o">
+			<Option target="Build" />
+		</Unit>
+		<Unit filename="obj/Debug/main.o">
+			<Option target="Build" />
+		</Unit>
+		<Unit filename="obj/Release/main.o">
+			<Option target="Build" />
+		</Unit>
+		<Unit filename="obj/Test/main.o">
+			<Option target="Build" />
+		</Unit>
+		<Unit filename="wtypes.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

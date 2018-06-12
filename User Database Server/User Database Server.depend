@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1466868635 source:c:\users\user\desktop\user database server\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
