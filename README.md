@@ -85,7 +85,6 @@ ID FName LName Field1 Field2 Field3
 |ID|Customer's ID used inside the code as a reference to the the rest of the data,starts from 0|
 |FName|Customer's first name|
 |LName|Customer's last name|
-|Field1|Editable field,currently hard-coded|
-|Field2|Editable field,currently hard-coded|
+|Field1,2,3,...|Editable fields,currently hard-coded|
 
 
