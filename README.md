@@ -1,3 +1,10 @@
+## Build status
+
+|Branch|Status|
+|------|------|
+|master|[![Build status](https://ci.appveyor.com/api/projects/status/j2f346owceic6iby/branch/master?retina=true)](https://ci.appveyor.com/project/Molizo/userdatabase/branch/master)|
+|dev|[![Build status](https://ci.appveyor.com/api/projects/status/j2f346owceic6iby/branch/dev?retina=true)](https://ci.appveyor.com/project/Molizo/userdatabase/branch/dev)|
+
 # Client application details
 ## Usage
 In order to use the software,please start the executable "User Database Client.exe".
