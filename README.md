@@ -32,7 +32,7 @@ InstallID RestrictedUsername RestrictedPassword ServerIP ServerPort NetworkEnabl
 |debug|Enable(1) or Disable(0) debug settings in Administrator menu|
 |plugins|Enable(1) or Disable(0) plugins|
 |firstRun|Not used|
-|Title|Starting and ending with "~",uses [ for spaces.It is shown on every screen|
+|Title|Starting and ending with "~",uses [ for spaces.It is shown on every screen as a header|
 
 # Server application details
 ## Usage
