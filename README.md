@@ -13,7 +13,7 @@ For a local login,you must provide the following credentials:
 |Username|Password|Details|
 |--------|--------|-------|
 |Administrator|admin|For Administrator access|
-|Molizo|NINTENDO|For Restricted access|
+
 
 ## Technical stuff
 Most of the application's settings are stored in the hidden file "DefaultSettings.ini".
